@@ -1,6 +1,6 @@
 # Blueprints (Public Library)
 
-Sanitized, platform-neutral AI agent blueprints and standalone customization guides for **Claude Code**, **Google Antigravity (`agy`)**, and **Hermes**.
+Sanitized, platform-neutral AI agent blueprints and standalone customization guides for **Claude Code**, **Google Antigravity (`agy`)**, **Hermes**, and **Happier Client**.
 
 ---
 
